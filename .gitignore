@@ -1,5 +1,5 @@
-.mp4
-.jpg
-.jpeg
-.png
+*.mp4
+*.jpg
+*.jpeg
+*.png
 .DS_Store
